@@ -19,7 +19,7 @@ jobs:
       - name: 🍳 Pull Dependencies
         run: npm install
       - name: 🍳 Make Quote
-        run: npm run start
+        run: npm run deploy
       - name: 🚀 Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
