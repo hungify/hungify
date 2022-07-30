@@ -2,7 +2,7 @@ import fs from 'fs';
 import fetch from 'node-fetch';
 import { QUOTE_END_POINT, TYPING_EFFECT, VISITOR_COUNT } from './constants';
 import type { Quote } from './interfaces';
-import { getCurrentTimeZone, getVietnameseDate } from './utils';
+import { getVietnameseDate } from './utils';
 
 const totalVisitor = `<p align='center'><img src='${VISITOR_COUNT}'></p>`;
 const greetingEffect = `[![Typing SVG](${TYPING_EFFECT})](https://git.io/typing-svg)`;
@@ -28,8 +28,7 @@ const makeQuote = async () => {
     const author = quote?.author ? quote.author : 'Anonymous';
 
     const today = getVietnameseDate(new Date());
-    const timeZone = getCurrentTimeZone();
-    const quoteOfDay = `${totalVisitor} \n\n${greetingEffect} \n _Quote of the Day (${today} - ${timeZone})_\n___\n>**_${content}_**\n___\n\n## __**_${author}_**\n\n${images}\n`;
+    const quoteOfDay = `${totalVisitor} \n\n${greetingEffect} \n _Quote of the Day (${today})_\n___\n>**_${content}_**\n___\n\n## __**_${author}_**\n\n${images}\n`;
 
     fs.writeFileSync('README.md', quoteOfDay);
   } catch (error) {

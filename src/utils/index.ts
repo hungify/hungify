@@ -4,10 +4,6 @@ export const getVietnameseDate = (date: Date) => {
   if (sevenTimeZone.indexOf(currentTimeZone) > -1) {
     return date.toLocaleString('vi-VN');
   }
-  const vietnameseHour = date.setHours(date.getHours() + 7);
+  const vietnameseHour = date.setHours(date.getHours() + 7); //Github action timeZone is UTC
   return new Date(vietnameseHour).toLocaleString('vi-VN');
-};
-
-export const getCurrentTimeZone = () => {
-  return Intl.DateTimeFormat().resolvedOptions().timeZone;
 };
