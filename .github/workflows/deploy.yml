@@ -24,6 +24,7 @@ jobs:
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          echo "today=$(date +%y/%m/%d)" >> $GITHUB_ENV
           git add .
-          git commit -m "update README.md"|| echo "No changes to commit"
+          git commit -m ":fire: updated README.md :memo:"|| echo updated on $today
           git push -f
