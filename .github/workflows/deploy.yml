@@ -11,19 +11,35 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🍽️ Get working copy
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: '16'
-      - name: 🍳 Pull Dependencies
+          node-version: '16.x'
+          cache: 'npm'
+
+      - name: 🧠 Caching
+        id: cache_node_modules
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - name: ☄️ Install Dependencies
         run: npm install
+
       - name: 🍳 Make Quote
         run: npm run deploy
+
       - name: 🚀 Deploy
         run: |
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           echo "today=$(date +%y/%m/%d)" >> $GITHUB_ENV
           git add .
           git commit -m ":fire: updated README.md :memo:"|| echo updated on $today
