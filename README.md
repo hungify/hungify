@@ -1,11 +1,11 @@
 <p align='center'><img src='https://komarev.com/ghpvc/?username=hungpurdie&label=Total+Vistors&color=brightgreen&style=plastic'></p> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (09:05:57, 7/8/2022)_
+ _Quote of the Day (08:53:40, 8/8/2022)_
 ___
->**_Nature and books belong to the eyes that see them._**
+>**_Ethics change with technology._**
 ___
 
-## __**_Ralph Waldo Emerson_**
+## __**_Larry Niven_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
