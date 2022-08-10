@@ -1,11 +1,11 @@
 <p align='center'><img src='https://komarev.com/ghpvc/?username=hungpurdie&label=Total+Vistors&color=brightgreen&style=plastic'></p> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (09:03:44, 9/8/2022)_
+ _Quote of the Day (08:46:13, 10/8/2022)_
 ___
->**_Tragedy is a tool for the living to gain wisdom, not a guide by which to live._**
+>**_If you're trying to achieve, there will be roadblocks. I've had them; everybody has had them. But obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it._**
 ___
 
-## __**_Robert F. Kennedy_**
+## __**_Michael Jordan_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
