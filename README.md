@@ -1,11 +1,11 @@
 <p align='center'><img src='https://komarev.com/ghpvc/?username=hungpurdie&label=Total+Vistors&color=brightgreen&style=plastic'></p> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (09:10:57, 25/8/2022)_
+ _Quote of the Day (09:14:41, 26/8/2022)_
 ___
->**_The fox has many tricks. The hedgehog has but one. But that is the best of all._**
+>**_If you can't explain it simply, you don't understand it well enough._**
 ___
 
-## __**_Erasmus_**
+## __**_Albert Einstein_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
