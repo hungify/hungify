@@ -1,4 +1,4 @@
-import fs from "fs";
+import { writeFile } from 'fs/promises'
 import { QUOTE_END_POINT, TYPING_EFFECT } from "./constants";
 import type { Quote } from "./interfaces";
 import { fetchData, getVietnameseDate } from "./utils";
@@ -14,7 +14,7 @@ const makeQuote = async () => {
     const today = getVietnameseDate(new Date());
     const quoteToday = `${greetingEffect} \n _Quote Today (${today})_\n___\n>**_${content}_**\n___\n\n## __**_${newAuthor}_**\n\n${images}\n`;
 
-    await fs.readFileAsync("README.md", quoteToday);
+    await writeFile("README.md", quoteToday);
   } catch (error) {
     console.log(error);
   }
