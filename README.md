@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote Today (09:34:04, 24/10/2022)_
+ _Quote Today (09:29:35, 25/10/2022)_
 ___
->**_Until you make peace with who you are, you'll never be content with what you have._**
+>**_If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you._**
 ___
 
-## __**_Doris Mortman_**
+## __**_A. A. Milne_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
