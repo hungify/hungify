@@ -1,16 +1,15 @@
 {
-  "name": "hungpurdie",
+  "name": "hungify",
   "version": "2.0.0",
   "description": "",
   "main": "build/index.js",
   "type": "module",
   "scripts": {
-    "start": "node --experimental-specifier-resolution=node build/index.js",
+    "start": "node --experimental-modules --es-module-specifier-resolution=node build/index.js",
     "build": "rimraf build && tsc",
     "deploy": "npm run build && npm run start"
   },
   "dependencies": {
-    "cross-fetch": "^3.1.5",
     "tslib": "^2.4.0"
   },
   "devDependencies": {

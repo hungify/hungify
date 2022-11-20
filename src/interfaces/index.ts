@@ -8,3 +8,7 @@ export interface Quote {
   dateAdded?: string;
   dateModified?: string;
 }
+
+export interface ResponseJsonByEndpoint {
+  "https://api.quotable.io/random": Quote;
+}
