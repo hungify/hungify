@@ -1,10 +1,10 @@
-name: Node.js CI
+name: Bun CI
 
 on:
   push:
-    branches: [main]
+    branches: ["bun"]
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 
 jobs:
   build-and-deploy:
@@ -13,11 +13,8 @@ jobs:
       - name: 🍽️ Get working copy
         uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16.x'
-          cache: 'npm'
+      - name: 🎉 Setup Bun runtime
+        uses: antongolub/action-setup-bun@v1
 
       - name: 🧠 Caching
         id: cache_node_modules
@@ -33,10 +30,10 @@ jobs:
             ${{ runner.os }}-
 
       - name: ☄️ Install Dependencies
-        run: npm install
+        run: bun install
 
       - name: 🍳 Make Quote
-        run: npm run deploy
+        run: bun run dev
 
       - name: 🚀 Deploy
         run: |
