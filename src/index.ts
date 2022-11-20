@@ -1,9 +1,9 @@
 import { createWriteStream } from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import { TYPING_EFFECT } from "./constants";
-import { fetchQuote } from "./services";
-import { getVietnameseDate } from "./utils";
+import { TYPING_EFFECT } from "~/constants";
+import { fetchQuote } from "~/services";
+import { getVietnameseDate } from "~/utils";
 global.__dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const makeQuote = async () => {

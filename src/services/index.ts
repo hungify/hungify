@@ -1,4 +1,4 @@
-import { ResponseJsonByEndpoint } from "src/interfaces";
+import { ResponseJsonByEndpoint } from "~/interfaces";
 
 export async function fetchQuote<Endpoint extends keyof ResponseJsonByEndpoint>(
   endpoint: Endpoint
