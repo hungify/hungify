@@ -1,8 +1,9 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
-    "lib": ["ESNext", "DOM"],
+    "lib": ["ESNext"],
+    "module": "esnext",
+    "target": "esnext",
+    "types": ["bun-types"],
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,

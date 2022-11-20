@@ -1,0 +1,31 @@
+name: Bun CI
+
+on:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🍽️ Get working copy
+        uses: actions/checkout@v3
+
+      - name: 🎉 Setup Bun runtime
+        uses: antongolub/action-setup-bun@v1
+
+      - name: ☄️ Install Dependencies
+        run: bun install
+
+      - name: 🍳 Make Quote
+        run: bun run dev
+
+      - name: 🚀 Deploy
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add .
+          git commit -m ":fire: updated README.md :memo:"
+          git push -f
