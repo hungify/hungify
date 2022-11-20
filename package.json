@@ -5,7 +5,7 @@
   "main": "build/index.js",
   "type": "module",
   "scripts": {
-    "start": "node --experimental-modules --es-module-specifier-resolution=node build/index.js",
+    "start": "node --experimental-specifier-resolution=node build/index.js",
     "build": "rimraf build && tsc",
     "deploy": "npm run build && npm run start"
   },
@@ -21,16 +21,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hungpurdie/hungpurdie.git"
+    "url": "git+https://github.com/hungify/hungify.git"
   },
   "keywords": [],
-  "author": "hungpurdie",
+  "author": "hungify",
   "license": "MIT",
   "engines": {
     "node": ">=16.0.0"
   },
   "bugs": {
-    "url": "https://github.com/hungpurdie/hungpurdie/issues"
+    "url": "https://github.com/hungify/hungify/issues"
   },
-  "homepage": "https://github.com/hungpurdie/hungpurdie#readme"
+  "homepage": "https://github.com/hungify/hungify#readme"
 }

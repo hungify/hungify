@@ -4,6 +4,7 @@ import { fileURLToPath } from "url";
 import { TYPING_EFFECT } from "./constants";
 import { fetchQuote } from "./services";
 import { getVietnameseDate } from "./utils";
+
 global.__dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const makeQuote = async () => {
@@ -26,6 +27,8 @@ const makeQuote = async () => {
     const writable = createWriteStream(path.join(__dirname, "README.md"));
 
     writable.write(quoteToday);
+
+    console.log("Generated quote today successfully!. Check README.md");
   } catch (error) {
     console.log(error);
   }
