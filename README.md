@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:53:44, 21/1/2023)_
+_Quote Today (07:56:28, 22/1/2023)_
 ___
->**_Begin at once to live and count each separate day as a separate life._**
+>**_Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe._**
 ___
 
-## __**_Seneca the Younger_**
+## __**_Alan Watts_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
