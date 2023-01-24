@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:51:55, 23/1/2023)_
+_Quote Today (07:55:31, 24/1/2023)_
 ___
->**_If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him._**
+>**_There is never enough time to do everything, but there is always enough time to do the most important thing._**
 ___
 
-## __**_Ralph Waldo Emerson_**
+## __**_Brian Tracy_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
