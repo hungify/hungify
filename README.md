@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:51:48, 25/1/2023)_
+_Quote Today (07:52:25, 26/1/2023)_
 ___
->**_I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is._**
+>**_Every problem has a gift for you in its hands._**
 ___
 
-## __**_Alan Watts_**
+## __**_Richard Bach_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
