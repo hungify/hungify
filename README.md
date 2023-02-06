@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:58:21, 5/2/2023)_
+_Quote Today (07:52:27, 6/2/2023)_
 ___
->**_Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good._**
+>**_Opportunity does not knock, it presents itself when you beat down the door._**
 ___
 
-## __**_Ralph Waldo Emerson_**
+## __**_Kyle Chandler_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
