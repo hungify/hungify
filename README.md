@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:58:51, 17/2/2023)_
+_Quote Today (07:55:11, 18/2/2023)_
 ___
->**_A man should look for what is, and not for what he thinks should be._**
+>**_Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children._**
 ___
 
-## __**_Albert Einstein_**
+## __**_Kahlil Gibran_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
