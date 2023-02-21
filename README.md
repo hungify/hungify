@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:58:13, 20/2/2023)_
+_Quote Today (07:57:52, 21/2/2023)_
 ___
->**_When the solution is simple, God is answering._**
+>**_Our lives are a sum total of the choices we have made._**
 ___
 
-## __**_Albert Einstein_**
+## __**_Wayne Dyer_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
