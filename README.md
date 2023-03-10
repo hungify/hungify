@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:58:43, 9/3/2023)_
+_Quote Today (07:57:42, 10/3/2023)_
 ___
->**_He is able who thinks he is able._**
+>**_There is no friendship, no love, like that of the parent for the child._**
 ___
 
-## __**_Buddha_**
+## __**_Henry Ward Beecher_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
