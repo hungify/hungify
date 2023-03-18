@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:54:38, 17/3/2023)_
+_Quote Today (07:53:00, 18/3/2023)_
 ___
->**_Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe._**
+>**_There are only two mistakes one can make along the road to truth; not going all the way, and not starting._**
 ___
 
-## __**_Winston Churchill_**
+## __**_Buddha_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
