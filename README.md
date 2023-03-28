@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:50:30, 27/3/2023)_
+_Quote Today (07:53:21, 28/3/2023)_
 ___
->**_We read the world wrong and say that it deceives us._**
+>**_To change one's life, start immediately, do it flamboyantly, no exceptions._**
 ___
 
-## __**_Rabindranath Tagore_**
+## __**_William James_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
