@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:53:03, 2/4/2023)_
+_Quote Today (07:48:51, 3/4/2023)_
 ___
->**_The most formidable weapon against errors of every kind is reason._**
+>**_Once you choose hope, anything's possible._**
 ___
 
-## __**_Thomas Paine_**
+## __**_Christopher Reeve_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
