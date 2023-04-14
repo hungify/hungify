@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:47:47, 13/4/2023)_
+_Quote Today (07:47:53, 14/4/2023)_
 ___
->**_A true friend is one who overlooks your failures and tolerates your success!_**
+>**_Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it._**
 ___
 
-## __**_Doug Larson_**
+## __**_Napoleon Hill_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
