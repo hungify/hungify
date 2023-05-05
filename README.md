@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:50:31, 4/5/2023)_
+_Quote Today (07:45:46, 5/5/2023)_
 ___
->**_I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed._**
+>**_A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool._**
 ___
 
-## __**_Michael Jordan_**
+## __**_Joseph Roux_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
