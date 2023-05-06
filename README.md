@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:45:46, 5/5/2023)_
+_Quote Today (07:46:26, 6/5/2023)_
 ___
->**_A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool._**
+>**_Be kind whenever possible. It is always possible._**
 ___
 
-## __**_Joseph Roux_**
+## __**_Dalai Lama_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
