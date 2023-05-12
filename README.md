@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:49:38, 11/5/2023)_
+_Quote Today (07:50:29, 12/5/2023)_
 ___
->**_No one has ever become poor by giving._**
+>**_Imagination is not a talent of some men but is the health of every man._**
 ___
 
-## __**_Anne Frank_**
+## __**_Ralph Waldo Emerson_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
