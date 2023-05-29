@@ -1,8 +1,6 @@
-import { ResponseJsonByEndpoint } from "~/interfaces/index";
+import { Quote } from "~/interfaces";
 
-export async function fetchQuote<Endpoint extends keyof ResponseJsonByEndpoint>(
-  endpoint: Endpoint
-): Promise<ResponseJsonByEndpoint[Endpoint]> {
-  const response = await fetch(endpoint);
+export async function fetchQuote(): Promise<Quote> {
+  const response = await fetch("https://api.quotable.io/random");
   return await response.json();
 }

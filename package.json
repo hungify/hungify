@@ -3,13 +3,16 @@
     "dev": "bun run src/index.ts",
     "build": "rimraf build && tsc"
   },
-  "dependencies": {},
   "name": "hungify",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
-    "bun-types": "^0.2.0",
-    "rimraf": "^3.0.2",
-    "typescript": "^4.9.3"
+    "bun-types": "^0.6.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "rimraf": "^3.0.2"
   }
 }

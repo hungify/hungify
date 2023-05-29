@@ -1,14 +1,13 @@
-import { TYPING_EFFECT } from "./constants/index";
-import { fetchQuote } from "./services/index";
-import { getVietnameseDate } from "./utils/index";
-import { write } from "bun";
+import { TYPING_EFFECT } from "./constants";
+import { fetchQuote } from "./services";
+import { getVietnameseDate } from "./utils";
 
 const makeQuote = async () => {
   const greetingEffect = `[![Typing SVG](${TYPING_EFFECT})](https://git.io/typing-svg)`;
   const heroDance = `![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)`;
-  const endpoint = "https://api.quotable.io/random";
+
   try {
-    const { content, author } = await fetchQuote(endpoint);
+    const { content, author } = await fetchQuote();
     const newAuthor = author ?? "Anonymous";
 
     const today = getVietnameseDate(new Date());
@@ -20,9 +19,9 @@ const makeQuote = async () => {
 
     const quoteToday = `${greeting}${quoteTime}${quoteContent}${currentAuthor}${hero}`;
 
-    await write("README.md", quoteToday);
+    await Bun.write("README.md", quoteToday);
 
-    console.log("Generated quote today successfully!. Check README.md");
+    console.log("Generated quote today successfully!. \nCheck README.md");
   } catch (error) {
     console.log(error);
   }
