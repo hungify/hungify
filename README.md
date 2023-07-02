@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:58:04, 1/7/2023)_
+_Quote Today (07:55:42, 2/7/2023)_
 ___
->**_If opportunity doesn't knock, build a door._**
+>**_We make our own fortunes and we call them fate._**
 ___
 
-## __**_Milton Berle_**
+## __**_Benjamin Disraeli_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
