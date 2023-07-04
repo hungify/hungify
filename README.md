@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:54:18, 3/7/2023)_
+_Quote Today (07:55:02, 4/7/2023)_
 ___
->**_Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were._**
+>**_Feeling and longing are the motive forces behind all human endeavor and human creations._**
 ___
 
-## __**_David Rockefeller_**
+## __**_Albert Einstein_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
