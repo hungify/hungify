@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:48:07, 22/7/2023)_
+_Quote Today (07:50:31, 23/7/2023)_
 ___
->**_Nobody made a greater mistake than he who did nothing because he could do only a little._**
+>**_Luck is what happens when preparation meets opportunity._**
 ___
 
-## __**_Edmund Burke_**
+## __**_Seneca the Younger_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
