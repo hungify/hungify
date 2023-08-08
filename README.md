@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:43:58, 7/8/2023)_
+_Quote Today (07:42:25, 8/8/2023)_
 ___
->**_In action a great heart is the chief qualification. In work, a great head._**
+>**_When people are like each other they tend to like each other._**
 ___
 
-## __**_Arthur Schopenhauer_**
+## __**_Tony Robbins_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
