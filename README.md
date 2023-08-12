@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:34:48, 11/8/2023)_
+_Quote Today (07:33:59, 12/8/2023)_
 ___
->**_I cannot make my days longer, so I strive to make them better._**
+>**_This is the final test of a gentleman: his respect for those who can be of no possible value to him._**
 ___
 
-## __**_Henry David Thoreau_**
+## __**_William Lyon Phelps_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
