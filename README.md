@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:36:40, 28/8/2023)_
+_Quote Today (07:36:08, 29/8/2023)_
 ___
->**_The greatest remedy for anger is delay._**
+>**_You do not become good by trying to be good, but by finding the goodness that is already within you._**
 ___
 
-## __**_Seneca the Younger_**
+## __**_Eckhart Tolle_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
