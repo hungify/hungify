@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:38:32, 10/9/2023)_
+_Quote Today (07:36:45, 11/9/2023)_
 ___
->**_I know not age, nor weariness nor defeat._**
+>**_Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present._**
 ___
 
-## __**_Rose Kennedy_**
+## __**_Joan Rivers_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
