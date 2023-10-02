@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:42:18, 1/10/2023)_
+_Quote Today (07:37:31, 2/10/2023)_
 ___
->**_Be the chief but never the lord._**
+>**_I'll prepare and someday my chance will come._**
 ___
 
-## __**_Laozi_**
+## __**_Abraham Lincoln_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
