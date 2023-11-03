@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:37:14, 2/11/2023)_
+_Quote Today (07:37:27, 3/11/2023)_
 ___
->**_Friendship is one mind in two bodies._**
+>**_Knowing others is wisdom, knowing yourself is Enlightenment._**
 ___
 
-## __**_Mencius_**
+## __**_Laozi_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
