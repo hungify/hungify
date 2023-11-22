@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:39:56, 21/11/2023)_
+_Quote Today (07:40:55, 22/11/2023)_
 ___
->**_So much technology, so little talent._**
+>**_An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind._**
 ___
 
-## __**_Vernor Vinge_**
+## __**_Albert Schweitzer_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
