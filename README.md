@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:39:42, 19/12/2023)_
+_Quote Today (07:32:17, 20/12/2023)_
 ___
->**_I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want._**
+>**_God has given you one face, and you make yourself another._**
 ___
 
-## __**_Muhammad Ali_**
+## __**_William Shakespeare_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
