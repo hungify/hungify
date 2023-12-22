@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:38:55, 21/12/2023)_
+_Quote Today (07:38:44, 22/12/2023)_
 ___
->**_I'll prepare and someday my chance will come._**
+>**_Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?_**
 ___
 
-## __**_Abraham Lincoln_**
+## __**_The Buddha_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
