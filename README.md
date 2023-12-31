@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:37:55, 30/12/2023)_
+_Quote Today (07:42:12, 31/12/2023)_
 ___
->**_There is nothing permanent except change._**
+>**_We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely._**
 ___
 
-## __**_Heraclitus_**
+## __**_Frank Abagnale_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
