@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:39:39, 4/1/2024)_
+_Quote Today (07:39:42, 5/1/2024)_
 ___
->**_Silence at the proper season is wisdom, and better than any speech._**
+>**_We love life, not because we are used to living but because we are used to loving._**
 ___
 
-## __**_Plutarch_**
+## __**_Friedrich Nietzsche_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
