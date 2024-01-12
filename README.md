@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:40:21, 11/1/2024)_
+_Quote Today (07:40:31, 12/1/2024)_
 ___
->**_I always wanted to be somebody, but I should have been more specific._**
+>**_There are three faithful friends - an old wife, an old dog, and ready money._**
 ___
 
-## __**_Lily Tomlin_**
+## __**_Benjamin Franklin_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
