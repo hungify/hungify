@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:43:53, 21/1/2024)_
+_Quote Today (07:42:09, 22/1/2024)_
 ___
->**_A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do._**
+>**_In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed._**
 ___
 
-## __**_Chuck Norris_**
+## __**_Kahlil Gibran_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
