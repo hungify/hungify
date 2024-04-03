@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:39:16, 2/4/2024)_
+_Quote Today (07:37:32, 3/4/2024)_
 ___
->**_I'd rather attempt to do something great and fail than to attempt to do nothing and succeed._**
+>**_Everyone thinks of changing the world, but no one thinks of changing himself._**
 ___
 
-## __**_Robert Schuller_**
+## __**_Leo Tolstoy_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
