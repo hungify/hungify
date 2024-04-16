@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (10:06:55, 15/4/2024)_
+_Quote Today (07:38:03, 16/4/2024)_
 ___
->**_Waste no more time arguing about what a good man should be. Be one._**
+>**_When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness._**
 ___
 
-## __**_Marcus Aurelius_**
+## __**_Joseph Campbell_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
