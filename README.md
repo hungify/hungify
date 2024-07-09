@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07:44:25 8/7/2024)_
+_Quote Today (07:43:04 9/7/2024)_
 ___
->**_When you reach the end of your rope, tie a knot in it and hang on._**
+>**_I have done my best: that is about all the philosophy of living one needs._**
 ___
 
-## __**_Franklin D. Roosevelt_**
+## __**_Lin Yutang_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
