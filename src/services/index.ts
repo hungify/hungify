@@ -1,6 +1,6 @@
 import { Quote } from "~/interfaces";
 
 export async function fetchQuote(): Promise<Quote> {
-  const response = await fetch("https://api.quotable.io/random");
-  return await response.json();
+  const response = await fetch("https://stoic.tekloon.net/stoic-quote");
+  return response.json();
 }

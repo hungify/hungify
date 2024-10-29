@@ -7,13 +7,13 @@ const makeQuote = async () => {
   const heroDance = `![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)`;
 
   try {
-    const { content, author } = await fetchQuote();
+    const { quote, author } = await fetchQuote();
     const newAuthor = author ?? "Anonymous";
 
     const today = getVietnameseDate(new Date());
     const greeting = `${greetingEffect} \n`;
     const quoteTime = `_Quote Today (${today})_\n___\n`;
-    const quoteContent = `>**_${content}_**\n___\n\n`;
+    const quoteContent = `>**_${quote}_**\n___\n\n`;
     const currentAuthor = `## __**_${newAuthor}_**\n\n`;
     const hero = `${heroDance}\n`;
 
