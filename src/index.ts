@@ -1,29 +1,25 @@
-import { TYPING_EFFECT } from "./constants";
-import { fetchQuote } from "./services";
-import { getVietnameseDate } from "./utils";
+import {
+  fetchQuote,
+  getTodayDateFormat,
+  GREENTING_EFFECT_URL,
+  HERO_DANCE_URL,
+} from "./shared";
 
 const makeQuote = async () => {
-  const greetingEffect = `[![Typing SVG](${TYPING_EFFECT})](https://git.io/typing-svg)`;
-  const heroDance = `![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)`;
-
   try {
     const { quote, author } = await fetchQuote();
     const newAuthor = author ?? "Anonymous";
 
-    const today = getVietnameseDate(new Date());
-    const greeting = `${greetingEffect} \n`;
+    const today = getTodayDateFormat();
     const quoteTime = `_Quote Today (${today})_\n___\n`;
-    const quoteContent = `>**_${quote}_**\n___\n\n`;
-    const currentAuthor = `## __**_${newAuthor}_**\n\n`;
-    const hero = `${heroDance}\n`;
+    const quoteFormat = `>**_${quote}_**\n___\n\n`;
+    const authorFormat = `## __**_${newAuthor}_**\n\n`;
 
-    const quoteToday = `${greeting}${quoteTime}${quoteContent}${currentAuthor}${hero}`;
+    const quoteToday = `${GREENTING_EFFECT_URL} \n${quoteTime}${quoteFormat}${authorFormat}${HERO_DANCE_URL}\n`;
 
     await Bun.write("README.md", quoteToday);
-
-    console.log("Generated quote today successfully!. \nCheck README.md");
   } catch (error) {
-    console.log(error);
+    console.error("Error:", error);
   }
 };
 
