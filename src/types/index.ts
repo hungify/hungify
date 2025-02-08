@@ -1,4 +1,4 @@
 export interface Quote {
-  quote: string;
-  author: string | null;
+	quote: string;
+	author: string | null;
 }
