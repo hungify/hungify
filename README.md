@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (02/09/2025, 07:54:36 AM)_
+_Quote Today (02/10/2025, 07:52:52 AM)_
 ___
->**_Don’t let fear, low self-esteem and the negative voices hold you back from your true destiny._**
+>**_There is no beginning and there is no end to time. There is only your perception of time._**
 ___
 
-## __**_David Goggins_**
+## __**_Zen proverb_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
