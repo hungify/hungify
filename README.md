@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (02/24/2025, 07:54:14 AM)_
+_Quote Today (02/25/2025, 07:53:20 AM)_
 ___
->**_Let us not postpone anything, let us engage in combats with life each day._**
+>**_The ordinary objects of human endeavour – property, outward success, luxury – have always seemed to me contemptible._**
 ___
 
-## __**_Seneca_**
+## __**_Albert Einstein_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
