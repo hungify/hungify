@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (03/06/2025, 07:54:51 AM)_
+_Quote Today (03/07/2025, 07:54:32 AM)_
 ___
->**_Our job is to find a few intelligent things to do, not to keep up with every damn thing in the world._**
+>**_The cause of an event is often unclear. You will feel less anxiety if you can learn to be comfortable with ambiguity. @_**
 ___
 
-## __**_Charlie Munger_**
+## __**_TheStoicEmperor_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
