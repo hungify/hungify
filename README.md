@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (03/18/2025, 07:54:41 AM)_
+_Quote Today (03/19/2025, 07:55:10 AM)_
 ___
->**_So, concerning the things we pursue, and for which we vigorously exert ourselves, we owe this consideration – either there is nothing useful in them, or most aren’t useful. Some of them are superfluous, while others aren’t worth that much. But we don’t discern this and see them as free, when they cost us dearly._**
+>**_Advice for nearly everything: start slowly and maintain traction._**
 ___
 
-## __**_Seneca_**
+## __**_Michael_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
