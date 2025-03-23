@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (03/22/2025, 07:53:53 AM)_
+_Quote Today (03/23/2025, 07:59:08 AM)_
 ___
->**_Happiness is not to acquire and enjoy, but nothing to be desired, as it is to be free._**
+>**_We must take a higher view of all things, and bear with them more easily: it better becomes a man to scoff at life than to lament over it._**
 ___
 
-## __**_Epictetus_**
+## __**_Seneca_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
