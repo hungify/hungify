@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/08/2025, 07:56:10 AM)_
+_Quote Today (04/09/2025, 07:56:13 AM)_
 ___
->**_Not reacting to deliberate provocation is a superpower. If you have the awareness and self-control to not react predictably, there is nothing that can put you off your path. Remember: the only enemy you need to fear is your own self – your lack of awareness and loss of control. @_**
+>**_A person who has built his life around pleasure is bound to be disillusioned. Hedonism is not sustainable, and it leaves a person empty. We are not meant to experience sustained pleasure. Therefore, to cope with the drab routine of daily existence, one must find meaning somewhere. @_**
 ___
 
 ## __**_TheAncientSage_**
