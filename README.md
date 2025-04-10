@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/09/2025, 07:56:13 AM)_
+_Quote Today (04/10/2025, 07:56:11 AM)_
 ___
->**_A person who has built his life around pleasure is bound to be disillusioned. Hedonism is not sustainable, and it leaves a person empty. We are not meant to experience sustained pleasure. Therefore, to cope with the drab routine of daily existence, one must find meaning somewhere. @_**
+>**_Concentrate every minute like a Roman— like a man— on doing what’s in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions._**
 ___
 
-## __**_TheAncientSage_**
+## __**_Marcus Aurelius_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
