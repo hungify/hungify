@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/13/2025, 09:26:09 AM)_
+_Quote Today (04/14/2025, 07:59:24 AM)_
 ___
->**_No man is free who is not master of himself._**
+>**_Between stimulus and response, there is a space. In that space is our power to choose our response._**
 ___
 
-## __**_Epictetus_**
+## __**_Viktor Frankl_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
