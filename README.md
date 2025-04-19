@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/18/2025, 07:56:10 AM)_
+_Quote Today (04/19/2025, 07:54:31 AM)_
 ___
->**_Even if you are hurting, never let your competition see the look of defeat or even vulnerability on your face._**
+>**_Don’t demand or expect that events happen as you would wish them to. Accept events as they actually happen. That way peace is possible._**
 ___
 
-## __**_David Goggins_**
+## __**_Epictetus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
