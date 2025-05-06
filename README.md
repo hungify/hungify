@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (05/05/2025, 08:01:21 AM)_
+_Quote Today (05/06/2025, 07:58:54 AM)_
 ___
->**_That which we desire lies across an ocean of hard won knowledge. @_**
+>**_The mind should not be kept continuously at the same pitch of concentration, but given amusing diversions… Our minds must relax: they will rise better and keener after a rest. Just as you must not force fertile farmland, as uninterrupted productivity will soon exhaust it, so constant effort will sap our mental vigor, while a short period of rest and relaxation will restore our powers._**
 ___
 
-## __**_TheStoicEmperor_**
+## __**_Seneca_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
