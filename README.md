@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (05/06/2025, 07:58:54 AM)_
+_Quote Today (05/07/2025, 07:59:07 AM)_
 ___
->**_The mind should not be kept continuously at the same pitch of concentration, but given amusing diversions… Our minds must relax: they will rise better and keener after a rest. Just as you must not force fertile farmland, as uninterrupted productivity will soon exhaust it, so constant effort will sap our mental vigor, while a short period of rest and relaxation will restore our powers._**
+>**_This is why we need to envisage every possibility and to strengthen the spirit to deal with the things which may conceivably come about. Rehearse them in your mind: exile, torture, war, shipwreck. Misfortune may snatch you away from your country… If we do not want to be overwhelmed and struck numb by rare events as if they were unprecedented ones; fortune needs envisaging in a thoroughly comprehensive way._**
 ___
 
 ## __**_Seneca_**
