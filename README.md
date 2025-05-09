@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (05/08/2025, 07:59:28 AM)_
+_Quote Today (05/09/2025, 07:59:00 AM)_
 ___
->**_Contentment doesn’t mean you stop improving your situation. In fact it has nothing to do with your external situation. It is a state of mind in which your happiness does not depend on external circumstances. It is the absence of neediness. You become self sufficient. @_**
+>**_To make a goal of comfort or happiness has never appealed to me; a system of ethics built on this basis would be sufficient only for a herd of cattle._**
 ___
 
-## __**_TheAncientSage_**
+## __**__**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
