@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (05/14/2025, 07:59:04 AM)_
+_Quote Today (05/15/2025, 07:57:16 AM)_
 ___
->**_People are always looking for shortcuts. The only way to achieve greatness in life is to have patience, consistency, and discipline._**
+>**_If you seek tranquility, do less. Or (more accurately) do what’s essential – what the reason of a social being requires, and in the requisite way. Which brings a double satisfaction: to do less, better._**
 ___
 
-## __**_David Goggins_**
+## __**_Marcus Aurelius_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
