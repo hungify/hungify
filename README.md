@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (06/01/2025, 08:12:32 AM)_
+_Quote Today (06/02/2025, 08:03:02 AM)_
 ___
->**_Your true self is not your emotion such as anger, frustration or hate. It is the inner witness that knows the rise and fall of your emotion._**
+>**_Don’t let fear, low self-esteem and the negative voices hold you back from your true destiny._**
 ___
 
-## __**_Haemin Sunim_**
+## __**_David Goggins_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
