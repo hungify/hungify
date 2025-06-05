@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (06/04/2025, 08:01:13 AM)_
+_Quote Today (06/05/2025, 08:00:26 AM)_
 ___
->**_One must be gullible yet skeptical, sane yet mad, proud yet humble, warm yet indifferent, faithful yet a heretic, loving yet uncompromising, fearless yet cautious, open yet decisive. These are not contradictions. They make a person whole. And above all one must be whole, not fragmentary. @_**
+>**_If anyone can refute me‚ show me I’m making a mistake or looking at things from the wrong perspective‚ I’ll gladly change. It’s the truth I’m after._**
 ___
 
-## __**_TheAncientSage_**
+## __**_Marcus Aurelius_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
