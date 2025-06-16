@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (06/15/2025, 08:07:41 AM)_
+_Quote Today (06/16/2025, 08:03:25 AM)_
 ___
->**_We are bacteria to the universe. We’re basically monkeys on a small rock orbiting a small backwards star in a huge galaxy, which is in an absolutely staggeringly gigantic universe, which itself may be part of a gigantic multiverse._**
+>**_Welcome if it comes. Let go if it goes. Chase nothing. Cling to nothing. Remain unconcerned. @_**
 ___
 
-## __**_Naval Ravikant_**
+## __**_TheAncientSage_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
