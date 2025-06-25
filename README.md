@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (06/24/2025, 08:01:49 AM)_
+_Quote Today (06/25/2025, 08:02:26 AM)_
 ___
->**_Life has more meaning in the face of death._**
+>**_It’s hard to prioritize the long term when you think you should feel comfortable in every moment._**
 ___
 
-## __**_Robert Greene_**
+## __**_Michael_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
