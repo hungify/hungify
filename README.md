@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (06/27/2025, 08:02:13 AM)_
+_Quote Today (06/28/2025, 08:00:00 AM)_
 ___
->**_Show people, don’t tell people._**
+>**_Never have I put my trust in fortune, even when she appeared to be offering peace; all those gifts she bestowed on me in her kindness —_**
 ___
 
-## __**_David Goggins_**
+## __**__**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
