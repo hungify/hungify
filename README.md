@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (06/30/2025, 08:05:42 AM)_
+_Quote Today (07/01/2025, 08:09:11 AM)_
 ___
->**_. Why don’t you? Too busy tracking social status. Too enthralled by imagery your evolution can’t resist. @_**
+>**_Fear is a atural reaction to moving closer to the truth. Pema Chödrön_**
 ___
 
-## __**_TheStoicEmperor_**
+## __**_n_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
