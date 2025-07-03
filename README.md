@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/02/2025, 08:02:06 AM)_
+_Quote Today (07/03/2025, 08:01:52 AM)_
 ___
->**_Be an island of calm in the sea of craziness._**
+>**_Heroes are heroes because they are heroic in behaviour, not because they won or lost._**
 ___
 
-## __**__**
+## __**_Nassim Nicholas Taleb_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
