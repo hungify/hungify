@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/03/2025, 08:01:52 AM)_
+_Quote Today (07/04/2025, 08:01:32 AM)_
 ___
->**_Heroes are heroes because they are heroic in behaviour, not because they won or lost._**
+>**_First, see clearly. Next, act correctly. Finally, endure and accept the world as it is._**
 ___
 
-## __**_Nassim Nicholas Taleb_**
+## __**_Ryan Holiday_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
