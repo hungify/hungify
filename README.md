@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/29/2025, 08:12:56 AM)_
+_Quote Today (07/30/2025, 08:06:33 AM)_
 ___
->**_and its laws. It is what it is. No amount of complaining, resentment or mourning will help. Accept, let go and move on. @_**
+>**_I begin to speak only when I’m certain what I’ll say isn’t better left unsaid._**
 ___
 
-## __**_TheAncientSage_**
+## __**_Cato The Younger_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
