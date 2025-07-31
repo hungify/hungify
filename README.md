@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/30/2025, 08:06:33 AM)_
+_Quote Today (07/31/2025, 08:06:25 AM)_
 ___
->**_I begin to speak only when I’m certain what I’ll say isn’t better left unsaid._**
+>**_Your true self is not your emotion such as anger, frustration or hate. It is the inner witness that knows the rise and fall of your emotion._**
 ___
 
-## __**_Cato The Younger_**
+## __**_Haemin Sunim_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
