@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/31/2025, 08:06:25 AM)_
+_Quote Today (08/01/2025, 08:13:50 AM)_
 ___
->**_Your true self is not your emotion such as anger, frustration or hate. It is the inner witness that knows the rise and fall of your emotion._**
+>**_If we seek social status, we give other people power over us: We have to do things calculated to make them admire us, and we have to refrain from doing things that will trigger their disfavor. William B._**
 ___
 
-## __**_Haemin Sunim_**
+## __**_Irvine_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
