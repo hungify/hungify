@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/01/2025, 08:13:50 AM)_
+_Quote Today (08/02/2025, 08:03:29 AM)_
 ___
->**_If we seek social status, we give other people power over us: We have to do things calculated to make them admire us, and we have to refrain from doing things that will trigger their disfavor. William B._**
+>**_To make a goal of comfort or happiness has never appealed to me; a system of ethics built on this basis would be sufficient only for a herd of cattle._**
 ___
 
-## __**_Irvine_**
+## __**__**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
