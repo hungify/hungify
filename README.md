@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/03/2025, 08:13:05 AM)_
+_Quote Today (08/04/2025, 08:11:58 AM)_
 ___
->**_Don’t argue with people nor insist on showing them truth. Maybe it is you who needs to change your mind. Even if you are right you only incur resentment by trying to correct others. @_**
+>**_Getting more of something has not satisfied anyone. It will not satisfy you either. It will only increase your discontent. He who has little can be content, but not the one who has a lot. The more one attains, the higher the expectations, and the greater the discontent. @_**
 ___
 
 ## __**_TheAncientSage_**
