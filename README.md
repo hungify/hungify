@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/18/2025, 08:06:21 AM)_
+_Quote Today (08/19/2025, 07:59:56 AM)_
 ___
->**_You are scared of dying—and, tell me, is the kind of life you lead really any different than being dead?_**
+>**_Never have I put my trust in fortune, even when she appeared to be offering peace; all those gifts she bestowed on me in her kindness —_**
 ___
 
-## __**_Seneca_**
+## __**__**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
