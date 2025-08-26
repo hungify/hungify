@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/25/2025, 08:00:28 AM)_
+_Quote Today (08/26/2025, 07:59:03 AM)_
 ___
->**_Don’t demand or expect that events happen as you would wish them to. Accept events as they actually happen. That way peace is possible._**
+>**_It does not matter what you bear, but how you bear it._**
 ___
 
-## __**_Epictetus_**
+## __**_Seneca_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
