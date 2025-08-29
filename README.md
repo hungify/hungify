@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/28/2025, 07:56:22 AM)_
+_Quote Today (08/29/2025, 07:56:49 AM)_
 ___
->**_Desire is a contract that you make with yourself to be unhappy until you get what you want._**
+>**_You become what you give your attention to…If you yourself don’t choose what thoughts and images you expose yourself to, someone else will._**
 ___
 
-## __**_Naval Ravikant_**
+## __**_Epictetus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
