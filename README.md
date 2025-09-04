@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (09/03/2025, 07:53:58 AM)_
+_Quote Today (09/04/2025, 07:54:05 AM)_
 ___
->**_A stoic is a Buddhist with attitude._**
+>**_What upsets people is not things themselves, but their judgements about these things._**
 ___
 
-## __**_Nassim Nicholas Taleb_**
+## __**_Epictetus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
