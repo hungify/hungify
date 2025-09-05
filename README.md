@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (09/04/2025, 07:54:05 AM)_
+_Quote Today (09/05/2025, 07:55:18 AM)_
 ___
->**_What upsets people is not things themselves, but their judgements about these things._**
+>**_If you’re more passionate about founding a business than the business itself, you can fall into a ten year trap. Better to stay emotionally unattached and select the best opportunity that arises. Applies to relationships too._**
 ___
 
-## __**_Epictetus_**
+## __**_Naval Ravikant_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
