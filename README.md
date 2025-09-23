@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (09/22/2025, 08:00:06 AM)_
+_Quote Today (09/23/2025, 07:54:47 AM)_
 ___
->**_In the mean time, cling tooth and nail to the following rule: not to give in to adversity, not to trust prosperity, and always take full note of fortune’s habit of behaving just as she pleases._**
+>**_There is no beginning and there is no end to time. There is only your perception of time._**
 ___
 
-## __**_Seneca_**
+## __**_Zen proverb_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
