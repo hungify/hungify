@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (09/23/2025, 07:54:47 AM)_
+_Quote Today (09/24/2025, 07:55:34 AM)_
 ___
->**_There is no beginning and there is no end to time. There is only your perception of time._**
+>**_When you internalize that the source of your satisfaction is within you not without, you are then prepared to receive bliss that never ends because it does not rely on the ever changing external circumstances. @_**
 ___
 
-## __**_Zen proverb_**
+## __**_TheAncientSage_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
