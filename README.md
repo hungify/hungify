@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (09/27/2025, 07:53:34 AM)_
+_Quote Today (09/28/2025, 08:01:13 AM)_
 ___
->**_We must take a higher view of all things, and bear with them more easily: it better becomes a man to scoff at life than to lament over it._**
+>**_When the pools of perception are clear, everything appears ‘as is’._**
 ___
 
-## __**_Seneca_**
+## __**_Zen proverb_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
