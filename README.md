@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (10/24/2025, 07:54:19 AM)_
+_Quote Today (10/25/2025, 07:56:12 AM)_
 ___
->**_We define ourselves far too often by our past failures. That’s not you. You are this person right now. You’re the person who has learned from those failures._**
+>**_True rewards – wealth, knowledge, love, fitness, and equanimity – come from ignoring others and improving ourselves._**
 ___
 
-## __**_Joe Rogan_**
+## __**_Naval Ravikant_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
