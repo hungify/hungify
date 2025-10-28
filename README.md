@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (10/27/2025, 08:02:56 AM)_
+_Quote Today (10/28/2025, 07:56:49 AM)_
 ___
->**_Almost all Americans own a smartphone or a computer. Each device contains the library of Alexandria. The sum total of all world knowledge._**
+>**_It’s not that we have little time, but more that we waste a good deal of it._**
 ___
 
-## __**__**
+## __**_Seneca_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
