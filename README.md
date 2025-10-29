@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (10/28/2025, 07:56:49 AM)_
+_Quote Today (10/29/2025, 08:00:49 AM)_
 ___
->**_It’s not that we have little time, but more that we waste a good deal of it._**
+>**_Move toward resistance and pain._**
 ___
 
-## __**_Seneca_**
+## __**_Robert Greene_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
