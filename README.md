@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (10/29/2025, 08:00:49 AM)_
+_Quote Today (10/30/2025, 08:00:32 AM)_
 ___
->**_Move toward resistance and pain._**
+>**_When someone is properly grounded in life, they shouldn’t have to look outside themselves for approval._**
 ___
 
-## __**_Robert Greene_**
+## __**_Epictetus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
