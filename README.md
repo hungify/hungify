@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (11/23/2025, 08:07:53 AM)_
+_Quote Today (11/24/2025, 08:03:50 AM)_
 ___
->**_He who angers you conquers you._**
+>**_The limit is not the sky. The limit is the mind._**
 ___
 
-## __**_Elizabeth Kenny_**
+## __**_Wim Hof_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
