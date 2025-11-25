@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (11/24/2025, 08:03:50 AM)_
+_Quote Today (11/25/2025, 07:59:24 AM)_
 ___
->**_The limit is not the sky. The limit is the mind._**
+>**_Having the fewest wants, I am nearest to the gods._**
 ___
 
-## __**_Wim Hof_**
+## __**_Socrates_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
