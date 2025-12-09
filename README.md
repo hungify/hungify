@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (12/08/2025, 08:01:53 AM)_
+_Quote Today (12/09/2025, 08:01:15 AM)_
 ___
->**_When someone is properly grounded in life, they shouldn’t have to look outside themselves for approval._**
+>**_To love only what happens, what was destined. No greater harmony._**
 ___
 
-## __**_Epictetus_**
+## __**_Marcus Aurelius_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
