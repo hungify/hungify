@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (12/09/2025, 08:01:15 AM)_
+_Quote Today (12/10/2025, 08:02:58 AM)_
 ___
->**_To love only what happens, what was destined. No greater harmony._**
+>**_The universe has been around for a long time, and the universe is a very, very large place. If you’ll study even the smallest bit of science, for all practical purposes we are nothing._**
 ___
 
-## __**_Marcus Aurelius_**
+## __**_Naval Ravikant_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
