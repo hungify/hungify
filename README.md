@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (12/10/2025, 08:02:58 AM)_
+_Quote Today (12/11/2025, 08:03:36 AM)_
 ___
->**_The universe has been around for a long time, and the universe is a very, very large place. If you’ll study even the smallest bit of science, for all practical purposes we are nothing._**
+>**_The wise man listens to meaning, the fool only gets the noise._**
 ___
 
-## __**_Naval Ravikant_**
+## __**_Nassim Nicholas Taleb_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
