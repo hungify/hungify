@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (12/13/2025, 07:59:35 AM)_
+_Quote Today (12/14/2025, 08:08:00 AM)_
 ___
->**_Only these two questions: Is what he’s doing now the right thing to be doing? Does he accept and welcome what he’s been assigned?_**
+>**_‎Life is a shipwreck, but we must not forget to sing in the lifeboats._**
 ___
 
-## __**_Marcus Aurelius_**
+## __**_Voltaire_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
