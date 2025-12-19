@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (12/18/2025, 08:00:21 AM)_
+_Quote Today (12/19/2025, 08:03:22 AM)_
 ___
->**_Happiness is a choice that requires effort at times._**
+>**_When you think you’re done, you’re only at 40% of your body’s capability._**
 ___
 
-## __**_Aeschylus_**
+## __**_David Goggins_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
