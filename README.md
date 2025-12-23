@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (12/22/2025, 08:06:26 AM)_
+_Quote Today (12/23/2025, 08:03:21 AM)_
 ___
->**_Be true to whoever or whatever you are and wear it like a badge of honor. Fit in with one person and one person only: yourself._**
+>**_Start living in discomfort. Gradually increase it little by little, and you will steadily grow. If you want sudden growth, deluge yourself in great discomfort and do not retreat from it. The more discomfort you are willing to bear, the more you can grow. @_**
 ___
 
-## __**_David Goggins_**
+## __**_TheAncientSage_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
