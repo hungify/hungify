@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (12/26/2025, 08:03:17 AM)_
+_Quote Today (12/27/2025, 08:02:06 AM)_
 ___
->**_The best answer to anger is silence._**
+>**_Every hour focus your mind attentively…on the performance of the task in hand, with dignity, human sympathy, benevolence and freedom, and leave aside all other thoughts. You will achieve this, if you perform each action as if it were your last._**
 ___
 
 ## __**_Marcus Aurelius_**
