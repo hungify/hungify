@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (12/30/2025, 08:03:42 AM)_
+_Quote Today (12/31/2025, 08:05:21 AM)_
 ___
->**_Timendi causa est nescire — Ignorance is the cause of fear._**
+>**_Show me someone for whom success is less important than the manner in which it is achieved. Of concern for the means, rather than the ends, of their actions…I want to see him. This is the person I have looked for a long time, the true genius._**
 ___
 
-## __**_Seneca_**
+## __**_Epictetus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
