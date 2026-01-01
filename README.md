@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (12/31/2025, 08:05:21 AM)_
+_Quote Today (01/01/2026, 08:11:18 AM)_
 ___
->**_Show me someone for whom success is less important than the manner in which it is achieved. Of concern for the means, rather than the ends, of their actions…I want to see him. This is the person I have looked for a long time, the true genius._**
+>**_You stuck to your principles and when opportunities came along, you pounced on them with vigour._**
 ___
 
-## __**_Epictetus_**
+## __**_Charlie Munger_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
