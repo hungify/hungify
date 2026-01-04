@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (01/03/2026, 08:01:03 AM)_
+_Quote Today (01/04/2026, 08:12:07 AM)_
 ___
->**_Be true to whoever or whatever you are and wear it like a badge of honor. Fit in with one person and one person only: yourself._**
+>**_Take a deep breath. Get present in the moment and ask yourself what is important this very second. Greg McKeown (_**
 ___
 
-## __**_David Goggins_**
+## __**_Author of_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
