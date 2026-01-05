@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (01/04/2026, 08:12:07 AM)_
+_Quote Today (01/05/2026, 08:10:48 AM)_
 ___
->**_Take a deep breath. Get present in the moment and ask yourself what is important this very second. Greg McKeown (_**
+>**_There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will._**
 ___
 
-## __**_Author of_**
+## __**_Epictetus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
