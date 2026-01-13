@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (01/12/2026, 08:08:33 AM)_
+_Quote Today (01/13/2026, 08:02:02 AM)_
 ___
->**_Everything that happens is either endurable or not. If it’s endurable, then endure it. Stop complaining. If it’s unendurable… then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so._**
+>**_Since every man dies, it is better to die with distinction than to live long._**
 ___
 
-## __**_Marcus Aurelius_**
+## __**_Musonius Rufus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
