@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (01/17/2026, 08:02:48 AM)_
+_Quote Today (01/18/2026, 08:10:45 AM)_
 ___
->**_“What is the work of a Master?” said a solemn-faced visitor. “To teach people to laugh,” said the Master gravely._**
+>**_Self-control is all about moment to moment self awareness. You catch yourself doing – or about to do – something undesirable, see that it isn’t good for you in the long term, and as a result of this awareness abstain from doing it. @_**
 ___
 
-## __**_Anthony de Mello_**
+## __**_TheAncientSage_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
