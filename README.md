@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (01/30/2026, 08:15:49 AM)_
+_Quote Today (01/31/2026, 08:12:46 AM)_
 ___
->**_He who angers you conquers you._**
+>**_Welcome if it comes. Let go if it goes. Chase nothing. Cling to nothing. Remain unconcerned. @_**
 ___
 
-## __**_Elizabeth Kenny_**
+## __**_TheAncientSage_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
