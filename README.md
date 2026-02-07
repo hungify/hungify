@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (02/06/2026, 08:16:03 AM)_
+_Quote Today (02/07/2026, 08:14:46 AM)_
 ___
->**_Realists are not afraid to look at the harsh circumstances of life._**
+>**_Our job is to find a few intelligent things to do, not to keep up with every damn thing in the world._**
 ___
 
-## __**_Robert Greene_**
+## __**_Charlie Munger_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
