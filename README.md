@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (02/12/2026, 08:21:45 AM)_
+_Quote Today (02/13/2026, 08:24:16 AM)_
 ___
->**_Everything that happens is either endurable or not. If it’s endurable, then endure it. Stop complaining. If it’s unendurable… then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so._**
+>**_Remember that your perception of the world is a reflection of your state of consciousness._**
 ___
 
-## __**_Marcus Aurelius_**
+## __**_Eckhart Tolle_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
