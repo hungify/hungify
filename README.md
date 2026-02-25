@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (02/24/2026, 08:18:48 AM)_
+_Quote Today (02/25/2026, 08:22:48 AM)_
 ___
->**_What we fear doing most is usually what we most need to do._**
+>**_Happiness is a choice that requires effort at times._**
 ___
 
-## __**__**
+## __**_Aeschylus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
