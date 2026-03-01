@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (02/28/2026, 08:10:46 AM)_
+_Quote Today (03/01/2026, 08:26:30 AM)_
 ___
->**_You become what you give your attention to…If you yourself don’t choose what thoughts and images you expose yourself to, someone else will._**
+>**_It is not daily increase but daily decrease, hack away the unessential. The closer to the source, the less wastage there is._**
 ___
 
-## __**_Epictetus_**
+## __**__**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
