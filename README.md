@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (03/01/2026, 08:26:30 AM)_
+_Quote Today (03/02/2026, 08:18:26 AM)_
 ___
->**_It is not daily increase but daily decrease, hack away the unessential. The closer to the source, the less wastage there is._**
+>**_Be a master of the mind, not mastered by the mind._**
 ___
 
-## __**__**
+## __**_Zen proverb_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
