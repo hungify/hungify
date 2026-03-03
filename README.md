@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (03/02/2026, 08:18:26 AM)_
+_Quote Today (03/03/2026, 08:20:49 AM)_
 ___
->**_Be a master of the mind, not mastered by the mind._**
+>**_The limit is not the sky. The limit is the mind._**
 ___
 
-## __**_Zen proverb_**
+## __**_Wim Hof_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
