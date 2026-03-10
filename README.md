@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (03/09/2026, 08:19:26 AM)_
+_Quote Today (03/10/2026, 08:14:00 AM)_
 ___
->**_The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less._**
+>**_Happiness is not to acquire and enjoy, but nothing to be desired, as it is to be free._**
 ___
 
-## __**_Socrates_**
+## __**_Epictetus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
