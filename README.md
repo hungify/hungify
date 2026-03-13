@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (03/12/2026, 08:13:48 AM)_
+_Quote Today (03/13/2026, 08:17:43 AM)_
 ___
->**_Stoicism teaches how to keep a calm and rational mind no matter what happens to you and it helps you understand and focus on what you can control and not worry about and accept what you can’t control._**
+>**_Cultivate a fearless approach to life, attack everything with boldness and energy._**
 ___
 
-## __**_Jonas Salzgeber_**
+## __**_Robert Greene_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
