@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (03/16/2026, 08:28:10 AM)_
+_Quote Today (03/17/2026, 08:19:53 AM)_
 ___
->**_The mind that is anxious about future events is miserable._**
+>**_Become your own worst critic; see your work as if through the eyes of others._**
 ___
 
-## __**_Seneca_**
+## __**_Robert Greene_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
