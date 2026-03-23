@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (03/22/2026, 08:23:25 AM)_
+_Quote Today (03/23/2026, 08:23:41 AM)_
 ___
->**_The pain and boredom we experience in the initial stage of learning a skill toughens our minds._**
+>**_Why do you so earnestly seek the truth in distant places? Look for delusion and truth in the bottom of your own hearts. Ryō_**
 ___
 
-## __**_Robert Greene_**
+## __**_kan_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
