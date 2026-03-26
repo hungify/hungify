@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (03/25/2026, 08:21:59 AM)_
+_Quote Today (03/26/2026, 08:27:26 AM)_
 ___
->**_The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are._**
+>**_If we seek social status, we give other people power over us: We have to do things calculated to make them admire us, and we have to refrain from doing things that will trigger their disfavor. William B._**
 ___
 
-## __**__**
+## __**_Irvine_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
