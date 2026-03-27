@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (03/26/2026, 08:27:26 AM)_
+_Quote Today (03/27/2026, 08:27:13 AM)_
 ___
->**_If we seek social status, we give other people power over us: We have to do things calculated to make them admire us, and we have to refrain from doing things that will trigger their disfavor. William B._**
+>**_When you internalize that the source of your satisfaction is within you not without, you are then prepared to receive bliss that never ends because it does not rely on the ever changing external circumstances. @_**
 ___
 
-## __**_Irvine_**
+## __**_TheAncientSage_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
