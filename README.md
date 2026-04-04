@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/03/2026, 08:28:01 AM)_
+_Quote Today (04/04/2026, 08:22:21 AM)_
 ___
->**_Think clearly from the ground up. Understand and explain from first principles. Ignore society and politics. Acknowledge what you have. Control your emotions._**
+>**_You don’t suffer because things are impermanent. You suffer because things are impermanent and you think they are permanent._**
 ___
 
-## __**_Naval Ravikant_**
+## __**_Thich Nhat Hanh_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
