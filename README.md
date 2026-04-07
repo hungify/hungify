@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/06/2026, 08:46:35 AM)_
+_Quote Today (04/07/2026, 08:43:38 AM)_
 ___
->**_By contemplating the impermanence of everything in the world, we are forced to recognize that every time we do something could be the last time we do it, and this recognition can invest the things we do with a significance and intensity that would otherwise be absent. William B._**
+>**_Start living in discomfort. Gradually increase it little by little, and you will steadily grow. If you want sudden growth, deluge yourself in great discomfort and do not retreat from it. The more discomfort you are willing to bear, the more you can grow. @_**
 ___
 
-## __**_Irvine_**
+## __**_TheAncientSage_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
