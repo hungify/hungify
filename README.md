@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/07/2026, 08:43:38 AM)_
+_Quote Today (04/08/2026, 08:43:51 AM)_
 ___
->**_Start living in discomfort. Gradually increase it little by little, and you will steadily grow. If you want sudden growth, deluge yourself in great discomfort and do not retreat from it. The more discomfort you are willing to bear, the more you can grow. @_**
+>**_Be tolerant with others and strict with yourself._**
 ___
 
-## __**_TheAncientSage_**
+## __**_Marcus Aurelius_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
