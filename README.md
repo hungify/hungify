@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/19/2026, 08:53:45 AM)_
+_Quote Today (04/20/2026, 08:55:08 AM)_
 ___
->**_, position, influence — I stored where she would be able to reclaim them with no disturbance to me._**
+>**_If you lose self-control everything will fall._**
 ___
 
-## __**_Seneca_**
+## __**_John Wooden_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
