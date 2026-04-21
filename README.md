@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/20/2026, 08:55:08 AM)_
+_Quote Today (04/21/2026, 08:50:25 AM)_
 ___
->**_If you lose self-control everything will fall._**
+>**_Uncertainty is an uncomfortable position. But certainty is an absurd one._**
 ___
 
-## __**_John Wooden_**
+## __**_Voltaire_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
