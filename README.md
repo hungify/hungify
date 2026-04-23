@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/22/2026, 08:49:19 AM)_
+_Quote Today (04/23/2026, 08:53:13 AM)_
 ___
->**_Life is full of suffering. Yes. Why should it be otherwise? Embrace. Endure. @_**
+>**_Finding information is easier than ever. Filtering information is harder than ever. We are bombarded with irrelevant data and unsolicited stimulation. Choosing what to ignore is as important as choosing what to pay attention to. @_**
 ___
 
 ## __**_TheStoicEmperor_**
