@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/23/2026, 08:53:13 AM)_
+_Quote Today (04/24/2026, 08:53:40 AM)_
 ___
->**_Finding information is easier than ever. Filtering information is harder than ever. We are bombarded with irrelevant data and unsolicited stimulation. Choosing what to ignore is as important as choosing what to pay attention to. @_**
+>**_Our job is to find a few intelligent things to do, not to keep up with every damn thing in the world._**
 ___
 
-## __**_TheStoicEmperor_**
+## __**_Charlie Munger_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
