@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (04/27/2026, 08:59:35 AM)_
+_Quote Today (04/28/2026, 09:05:54 AM)_
 ___
->**_Short term thinking is everywhere. Noisy feuds over little prizes. The long term thinker will be king. Win the decade, not the day. @_**
+>**_You don’t suffer because things are impermanent. You suffer because things are impermanent and you think they are permanent._**
 ___
 
-## __**_TheStoicEmperor_**
+## __**_Thich Nhat Hanh_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
