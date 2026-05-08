@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (05/07/2026, 09:04:34 AM)_
+_Quote Today (05/08/2026, 09:11:33 AM)_
 ___
->**_The limit is not the sky. The limit is the mind._**
+>**_There is no cure for birth and death save to enjoy the interval._**
 ___
 
-## __**_Wim Hof_**
+## __**__**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
