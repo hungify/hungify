@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (05/16/2026, 09:08:07 AM)_
+_Quote Today (05/17/2026, 09:12:56 AM)_
 ___
->**_Ignoring someone is more powerful than hating them. Hate means that you are somehow bothered by the person and can’t stop thinking about them. They possess you. Indifference indicates that you just don’t care. It is freedom. @_**
+>**_Why does he smile when misfortune strikes? He knows it is an opportunity to cultivate virtue. Death, loss, decline. These things come for us all. Facing pain is how we make ready. Adversity sharpens the blade of will. Greet the test gladly. Endure. @_**
 ___
 
-## __**_TheAncientSage_**
+## __**_TheStoicEmperor_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
