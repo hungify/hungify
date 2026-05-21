@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (05/20/2026, 09:32:22 AM)_
+_Quote Today (05/21/2026, 09:33:00 AM)_
 ___
->**_We find comfort among those who agree with us – growth among those who don’t. Frank A._**
+>**_Be a master of the mind, not mastered by the mind._**
 ___
 
-## __**_Clark_**
+## __**_Zen proverb_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
