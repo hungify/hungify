@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (05/26/2026, 09:28:48 AM)_
+_Quote Today (05/27/2026, 09:38:14 AM)_
 ___
->**_It’s not supposed to be easy. Anyone who finds it easy is stupid._**
+>**_Inwardly, we ought to be different in every respect, but our outward dress should blend in with the crowd._**
 ___
 
-## __**_Charlie Munger_**
+## __**_Seneca_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
