@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (06/14/2026, 09:48:01 AM)_
+_Quote Today (06/15/2026, 09:52:26 AM)_
 ___
->**_Many think great success will pacify their critics. Quite the contrary. Criticism will multiply as you grow and progress. Positive attention does not come without negative attention. This is the price of having an impact. @_**
+>**_Do not act when the tide of rage flows in. Wait for it to go out. Then act with reason and proportion. @_**
 ___
 
 ## __**_TheStoicEmperor_**
