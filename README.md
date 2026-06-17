@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (06/16/2026, 09:53:53 AM)_
+_Quote Today (06/17/2026, 09:50:27 AM)_
 ___
->**_You have power over your mind — not outside events. Realize this, and you will find strength._**
+>**_Happiness is a choice that requires effort at times._**
 ___
 
-## __**_Marcus Aurelius_**
+## __**_Aeschylus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
