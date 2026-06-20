@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (06/19/2026, 10:30:51 AM)_
+_Quote Today (06/20/2026, 09:35:18 AM)_
 ___
->**_We are bacteria to the universe. We’re basically monkeys on a small rock orbiting a small backwards star in a huge galaxy, which is in an absolutely staggeringly gigantic universe, which itself may be part of a gigantic multiverse._**
+>**_Drop your concepts, drop your opinions, drop your prejudices, drop your judgments, and you will see that._**
 ___
 
-## __**_Naval Ravikant_**
+## __**_Anthony de Mello_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
