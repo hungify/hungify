@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/02/2026, 09:30:28 AM)_
+_Quote Today (07/03/2026, 09:05:56 AM)_
 ___
->**_When we become fixed in our perceptions we lose our ability to fly._**
+>**_A rational person can find peace by cultivating indifference to things outside of their control._**
 ___
 
-## __**_Mingyur Rinpoche_**
+## __**__**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
