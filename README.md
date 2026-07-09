@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/08/2026, 08:52:49 AM)_
+_Quote Today (07/09/2026, 09:06:07 AM)_
 ___
->**_A gem cannot be polished without friction, nor a man perfected without trials._**
+>**_The key to growth is the introduction of higher dimensions of consciousness into our awareness._**
 ___
 
-## __**_Seneca_**
+## __**_Lao Tzu_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
