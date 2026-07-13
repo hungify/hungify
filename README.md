@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/12/2026, 08:54:19 AM)_
+_Quote Today (07/13/2026, 08:56:43 AM)_
 ___
->**_If anyone can refute me‚ show me I’m making a mistake or looking at things from the wrong perspective‚ I’ll gladly change. It’s the truth I’m after._**
+>**_Discard your misperceptions. Stop being jerked like a puppet. Limit yourself to the present._**
 ___
 
 ## __**_Marcus Aurelius_**
