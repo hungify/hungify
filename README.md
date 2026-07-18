@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/17/2026, 08:53:30 AM)_
+_Quote Today (07/18/2026, 08:43:30 AM)_
 ___
->**_All you need are these: certainty of judgment in the present moment; action for the common good in the present moment; and an attitude of gratitude in the present moment for anything that comes your way._**
+>**_Doctors won’t make you healthy. Nutritionists won’t make you slim. Teachers won’t make you smart. Gurus won’t make you calm. Mentors won’t make you rich. Trainers won’t make you fit. Ultimately, you have to take responsibility. Save yourself._**
 ___
 
-## __**_Marcus Aurelius_**
+## __**_Naval Ravikant_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
