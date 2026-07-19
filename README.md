@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/18/2026, 08:43:30 AM)_
+_Quote Today (07/19/2026, 08:51:59 AM)_
 ___
->**_Doctors won’t make you healthy. Nutritionists won’t make you slim. Teachers won’t make you smart. Gurus won’t make you calm. Mentors won’t make you rich. Trainers won’t make you fit. Ultimately, you have to take responsibility. Save yourself._**
+>**_If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures._**
 ___
 
-## __**_Naval Ravikant_**
+## __**_Musonius Rufus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
