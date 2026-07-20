@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/19/2026, 08:51:59 AM)_
+_Quote Today (07/20/2026, 09:09:29 AM)_
 ___
->**_If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures._**
+>**_Getting more of something has not satisfied anyone. It will not satisfy you either. It will only increase your discontent. He who has little can be content, but not the one who has a lot. The more one attains, the higher the expectations, and the greater the discontent. @_**
 ___
 
-## __**_Musonius Rufus_**
+## __**_TheAncientSage_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
