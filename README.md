@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/23/2026, 08:58:05 AM)_
+_Quote Today (07/24/2026, 08:53:51 AM)_
 ___
->**_“Why do I keep repeating harmful behaviors/habits when I know they are bad for me?” Because they give you pleasure or help you avoid discomfort. And you are too weak to let go of a little pleasure or to bear a little discomfort. @_**
+>**_The secret of all victory lies in the organization of the non-obvious._**
 ___
 
-## __**_TheAncientSage_**
+## __**_Marcus Aurelius_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
