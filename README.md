@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/28/2026, 08:46:42 AM)_
+_Quote Today (07/29/2026, 08:49:16 AM)_
 ___
->**_All you need are these: certainty of judgment in the present moment; action for the common good in the present moment; and an attitude of gratitude in the present moment for anything that comes your way._**
+>**_You can accomplish anything if you can: 1) prioritize ruthlessly 2) control your attention. Both of these have become particularly hard in the present age. As such those who can control these two critical factors will rule the world. @_**
 ___
 
-## __**_Marcus Aurelius_**
+## __**_TheAncientSage_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
