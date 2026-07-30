@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/29/2026, 08:49:16 AM)_
+_Quote Today (07/30/2026, 08:41:33 AM)_
 ___
->**_You can accomplish anything if you can: 1) prioritize ruthlessly 2) control your attention. Both of these have become particularly hard in the present age. As such those who can control these two critical factors will rule the world. @_**
+>**_The ordinary objects of human endeavour – property, outward success, luxury – have always seemed to me contemptible._**
 ___
 
-## __**_TheAncientSage_**
+## __**_Albert Einstein_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
