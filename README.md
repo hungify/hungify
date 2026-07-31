@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (07/30/2026, 08:41:33 AM)_
+_Quote Today (07/31/2026, 08:58:56 AM)_
 ___
->**_The ordinary objects of human endeavour – property, outward success, luxury – have always seemed to me contemptible._**
+>**_Be tolerant with others and strict with yourself._**
 ___
 
-## __**_Albert Einstein_**
+## __**_Marcus Aurelius_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
