@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/04/2026, 08:45:04 AM)_
+_Quote Today (08/05/2026, 08:46:59 AM)_
 ___
->**_Life is all the more precious and beautiful because it is so fleeting._**
+>**_I’m not afraid of dying. I’m afraid not to have lived._**
 ___
 
-## __**_Jack Kornfield_**
+## __**_Wim Hof_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
