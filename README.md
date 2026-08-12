@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/11/2026, 08:03:17 AM)_
+_Quote Today (08/12/2026, 08:10:28 AM)_
 ___
->**_Be silent for the most part, or, if you speak, say only what is necessary and in a few words._**
+>**_Difficulty is what wakes up the genius._**
 ___
 
-## __**_Epictetus_**
+## __**_Nassim Nicholas Taleb_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
