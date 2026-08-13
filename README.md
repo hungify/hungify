@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/12/2026, 08:10:28 AM)_
+_Quote Today (08/13/2026, 08:12:09 AM)_
 ___
->**_Difficulty is what wakes up the genius._**
+>**_A stoic is a Buddhist with attitude._**
 ___
 
 ## __**_Nassim Nicholas Taleb_**
