@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/22/2026, 07:42:59 AM)_
+_Quote Today (08/23/2026, 07:48:00 AM)_
 ___
->**_Drop your concepts, drop your opinions, drop your prejudices, drop your judgments, and you will see that._**
+>**_Whatever anyone does or says, I’m bound to the good. Whatever anyone does or says, I must be what I am and show my true colors._**
 ___
 
-## __**_Anthony de Mello_**
+## __**_Marcus Aurelius_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
