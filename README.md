@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/24/2026, 07:44:54 AM)_
+_Quote Today (08/25/2026, 07:44:13 AM)_
 ___
->**_What is the point of dragging up sufferings that are over, of being miserable now, because you were miserable then?_**
+>**_, you can accept it, or you can leave it. What is not a good option is to sit around wishing you would change it but not changing it, wishing you would leave it but not leaving it, and not accepting it._**
 ___
 
-## __**_Seneca_**
+## __**_Naval Ravikant_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
