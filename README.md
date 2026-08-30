@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/29/2026, 11:55:11 AM)_
+_Quote Today (08/30/2026, 09:40:06 AM)_
 ___
->**_The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less._**
+>**_Stoicism, understood properly, is a cure for a disease. The disease in question is the anxiety, grief, fear, and various other negative emotions that plague humans and prevent them from experiencing a joyful existence. William B._**
 ___
 
-## __**_Socrates_**
+## __**_Irvine_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
