@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (08/31/2026, 09:34:05 AM)_
+_Quote Today (09/01/2026, 09:47:43 AM)_
 ___
->**_If you cannot change something, it is best to accept it cheerfully rather than adding to one’s misfortune by grieving over it. @_**
+>**_Ignoring someone is more powerful than hating them. Hate means that you are somehow bothered by the person and can’t stop thinking about them. They possess you. Indifference indicates that you just don’t care. It is freedom. @_**
 ___
 
 ## __**_TheAncientSage_**
