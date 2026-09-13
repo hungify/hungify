@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (09/12/2026, 09:19:38 AM)_
+_Quote Today (09/13/2026, 09:17:20 AM)_
 ___
->**_Waste no more time arguing about what a good man should be. Be one._**
+>**_It’s hard to prioritize the long term when you think you should feel comfortable in every moment._**
 ___
 
-## __**_Marcus Aurelius UPDATED_**
+## __**_Michael_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
