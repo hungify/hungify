@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (09/13/2026, 09:17:20 AM)_
+_Quote Today (09/14/2026, 09:34:55 AM)_
 ___
->**_It’s hard to prioritize the long term when you think you should feel comfortable in every moment._**
+>**_No one is asking you to look at the world through rose-colored glasses._**
 ___
 
-## __**_Michael_**
+## __**_Ryan Holiday_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
