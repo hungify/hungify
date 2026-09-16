@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (09/15/2026, 09:38:31 AM)_
+_Quote Today (09/16/2026, 09:32:57 AM)_
 ___
->**_The truth is that our finest moments are most likely to occur when we are feeling deeply uncomfortable, unhappy, or unfulfilled. For it is only in such moments, propelled by our discomfort, that we are likely to step out of our ruts and start searching for different ways or truer answers. M._**
+>**_Advice for nearly everything: start slowly and maintain traction._**
 ___
 
-## __**_Scott Peck_**
+## __**_Michael_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
