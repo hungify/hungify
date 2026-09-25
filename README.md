@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (09/24/2026, 09:23:58 AM)_
+_Quote Today (09/25/2026, 09:40:46 AM)_
 ___
->**_You have power over your mind — not outside events. Realize this, and you will find strength._**
+>**_Pay attention to your enemies, for they are the first to discover your mistakes._**
 ___
 
-## __**_Marcus Aurelius_**
+## __**_Antisthenes_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
