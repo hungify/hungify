@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (10/04/2026, 10:32:46 AM)_
+_Quote Today (10/05/2026, 10:13:28 AM)_
 ___
->**_Do what you will. Even if you tear yourself apart, most people will continue doing the same things._**
+>**_A gift consists not in what is done or given, but in the intention of the giver or doer._**
 ___
 
-## __**_Marcus Aurelius_**
+## __**_Seneca_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
