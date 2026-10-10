@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (10/09/2026, 10:49:10 AM)_
+_Quote Today (10/10/2026, 10:32:34 AM)_
 ___
->**_Comfort makes you weaker. We need some variability, some stressors. Not too much, but just enough._**
+>**_Almost all Americans own a smartphone or a computer. Each device contains the library of Alexandria. The sum total of all world knowledge._**
 ___
 
-## __**_Nassim Nicholas Taleb_**
+## __**__**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
