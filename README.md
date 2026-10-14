@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (10/13/2026, 11:43:09 AM)_
+_Quote Today (10/14/2026, 09:51:34 AM)_
 ___
->**_This is an era of universal hyperbole. Every day delivers a new banality disguised as an emergency. Distrust your first reactions. Begin with the assumption that you are overreacting. Conserve your emotional energies for your real concerns. @_**
+>**_What matters most is not what our obstacles are but how we see them, how we react to them, and whether we keep our composure._**
 ___
 
-## __**_TheStoicEmperor_**
+## __**_Ryan Holiday_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
