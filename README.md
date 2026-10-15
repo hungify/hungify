@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (10/14/2026, 09:51:34 AM)_
+_Quote Today (10/15/2026, 09:30:31 AM)_
 ___
->**_What matters most is not what our obstacles are but how we see them, how we react to them, and whether we keep our composure._**
+>**_“What is the work of a Master?” said a solemn-faced visitor. “To teach people to laugh,” said the Master gravely._**
 ___
 
-## __**_Ryan Holiday_**
+## __**_Anthony de Mello_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
