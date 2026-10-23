@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (10/22/2026, 09:37:14 AM)_
+_Quote Today (10/23/2026, 09:41:37 AM)_
 ___
->**_A gift consists not in what is done or given, but in the intention of the giver or doer._**
+>**_Does what’s happened keep you from acting with justice, generosity, self-control, sanity, prudence, honesty, humility, straightforwardness, and all other qualities that allow a person’s nature to fulfil itself? So remember this principle when something threatens to cause you pain: the thing itself was no misfortune at all; to endure it and prevail is great good fortune._**
 ___
 
-## __**_Seneca_**
+## __**_Marcus Aurelius_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
