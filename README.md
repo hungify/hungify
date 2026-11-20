@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (11/19/2026, 12:12:34 PM)_
+_Quote Today (11/20/2026, 11:59:38 AM)_
 ___
->**_Life has more meaning in the face of death._**
+>**_The path of least resistance is a terrible teacher._**
 ___
 
-## __**_Robert Greene_**
+## __**_Ryan Holiday_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
