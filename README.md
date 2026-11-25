@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
-_Quote Today (11/24/2026, 02:43:10 PM)_
+_Quote Today (11/25/2026, 01:13:54 PM)_
 ___
->**_Withstand the setbacks and failures, the days of drudgery, and the hard work that are always a part of any creative action._**
+>**_It is not so much our friends’ help that helps us as the confident knowledge that they will help us._**
 ___
 
-## __**_Robert Greene_**
+## __**_Epicurus_**
 
 ![RobotDance](src/assets/images/robot-dancing-dribble.gif?style=center)
